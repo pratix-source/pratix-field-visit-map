@@ -51,6 +51,110 @@
     {
       "source": "/mapa-visitas-campo",
       "destination": "/"
+    },
+    {
+      "source": "/en/field-visit-map",
+      "destination": "/"
+    },
+    {
+      "source": "/en/field-visit-map/",
+      "destination": "/"
+    },
+    {
+      "source": "/tr/saha-ziyaret-haritasi",
+      "destination": "/"
+    },
+    {
+      "source": "/tr/saha-ziyaret-haritasi/",
+      "destination": "/"
+    },
+    {
+      "source": "/de/feldbesuchs-karte",
+      "destination": "/"
+    },
+    {
+      "source": "/de/feldbesuchs-karte/",
+      "destination": "/"
+    },
+    {
+      "source": "/fr/carte-visites-terrain",
+      "destination": "/"
+    },
+    {
+      "source": "/fr/carte-visites-terrain/",
+      "destination": "/"
+    },
+    {
+      "source": "/es/mapa-visitas-campo",
+      "destination": "/"
+    },
+    {
+      "source": "/es/mapa-visitas-campo/",
+      "destination": "/"
+    },
+    {
+      "source": "/it/mappa-visite-territorio",
+      "destination": "/"
+    },
+    {
+      "source": "/it/mappa-visite-territorio/",
+      "destination": "/"
+    },
+    {
+      "source": "/nl/veldbezoek-kaart",
+      "destination": "/"
+    },
+    {
+      "source": "/nl/veldbezoek-kaart/",
+      "destination": "/"
+    },
+    {
+      "source": "/sv/faltbesokskarta",
+      "destination": "/"
+    },
+    {
+      "source": "/sv/faltbesokskarta/",
+      "destination": "/"
+    },
+    {
+      "source": "/da/markbesogskort",
+      "destination": "/"
+    },
+    {
+      "source": "/da/markbesogskort/",
+      "destination": "/"
+    },
+    {
+      "source": "/no/feltbesokskart",
+      "destination": "/"
+    },
+    {
+      "source": "/no/feltbesokskart/",
+      "destination": "/"
+    },
+    {
+      "source": "/fi/kenttakayntikartta",
+      "destination": "/"
+    },
+    {
+      "source": "/fi/kenttakayntikartta/",
+      "destination": "/"
+    },
+    {
+      "source": "/zh/waichu-fangwen-ditu",
+      "destination": "/"
+    },
+    {
+      "source": "/zh/waichu-fangwen-ditu/",
+      "destination": "/"
+    },
+    {
+      "source": "/pt/mapa-visitas-campo",
+      "destination": "/"
+    },
+    {
+      "source": "/pt/mapa-visitas-campo/",
+      "destination": "/"
     }
   ]
 }
