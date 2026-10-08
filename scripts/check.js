@@ -1,0 +1,1 @@
+const fs=require('node:fs');const s=fs.readFileSync('index.html','utf8');for(const x of ['leaflet','OpenStreetMap','Download SVG','Advertisement space'])if(!s.includes(x))throw new Error('missing '+x);console.log('map tool checks passed');

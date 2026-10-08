@@ -1,0 +1,56 @@
+{
+  "rewrites": [
+    {
+      "source": "/field-visit-map",
+      "destination": "/"
+    },
+    {
+      "source": "/saha-ziyaret-haritasi",
+      "destination": "/"
+    },
+    {
+      "source": "/feldbesuchs-karte",
+      "destination": "/"
+    },
+    {
+      "source": "/carte-visites-terrain",
+      "destination": "/"
+    },
+    {
+      "source": "/mapa-visitas-campo",
+      "destination": "/"
+    },
+    {
+      "source": "/mappa-visite-territorio",
+      "destination": "/"
+    },
+    {
+      "source": "/veldbezoek-kaart",
+      "destination": "/"
+    },
+    {
+      "source": "/faltbesokskarta",
+      "destination": "/"
+    },
+    {
+      "source": "/markbesogskort",
+      "destination": "/"
+    },
+    {
+      "source": "/feltbesokskart",
+      "destination": "/"
+    },
+    {
+      "source": "/kenttakayntikartta",
+      "destination": "/"
+    },
+    {
+      "source": "/waichu-fangwen-ditu",
+      "destination": "/"
+    },
+    {
+      "source": "/mapa-visitas-campo",
+      "destination": "/"
+    }
+  ]
+}
